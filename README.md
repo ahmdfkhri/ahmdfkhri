@@ -1,4 +1,4 @@
-Just do it man, memento mori;
+Just do it man; memento mori;
 
 <!---
 ahmdfkhri/ahmdfkhri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
